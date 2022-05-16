@@ -1,4 +1,4 @@
-### EX NO : 
+### EX NO : 06
 ### DATE  :
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## Aim:
@@ -16,7 +16,7 @@ Algorithm for ANN Backpropagation:
 </br>
 1.	The activation level of an input is determined by the instance presented to the network. 
 2.	The activation level oj of a hidden and output unit is determined. 
-</br>
+
 • Weight training:
 </br>
 1.	Start at the output units and work backward to the hidden layer recursively and adjust weights. 
