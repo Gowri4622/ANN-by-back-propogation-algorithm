@@ -18,7 +18,6 @@ Algorithm for ANN Backpropagation:
 2.	The activation level oj of a hidden and output unit is determined. 
 
 • Weight training:
-</br>
 1.	Start at the output units and work backward to the hidden layer recursively and adjust weights. 
 </br>
 2.	The weight change is completed. 
