@@ -14,6 +14,7 @@ Algorithm for ANN Backpropagation:
 • Calculation of Activation: 
 1.	The activation level of an input is determined by the instance presented to the network. 
 2.	The activation level oj of a hidden and output unit is determined. 
+</br>
 • Weight training: 
 1.	Start at the output units and work backward to the hidden layer recursively and adjust weights. 
 2.	The weight change is completed. 
@@ -26,9 +27,13 @@ b.	For the hidden units.
 1.Import packages
 </br>
 2.Defining Sigmoid Function for output
+</br>
 3.Derivative of Sigmoid Function
+</br>
 4.Initialize variables for training iterations and learning rate
+</br>
 5.Defining weight and biases for hidden and output layer
+</br>
 6.Updating Weights
 
 ## Program:
