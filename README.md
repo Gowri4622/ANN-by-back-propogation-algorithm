@@ -24,6 +24,7 @@ b.	For the hidden units.
 
 ## Algorithm
 1.Import packages
+</br>
 2.Defining Sigmoid Function for output
 3.Derivative of Sigmoid Function
 4.Initialize variables for training iterations and learning rate
